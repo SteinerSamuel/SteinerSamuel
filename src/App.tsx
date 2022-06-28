@@ -7,7 +7,7 @@ import Research from './components/Research'
 
 const App: React.FC = () => {
   return (
-    <div className="m-auto antialiased font-sans font-serif font-mono text-center flex overflow-clip w-screen">
+    <div className="m-auto antialiased font-sans text-center flex overflow-clip w-screen">
       <div className="fixed">
         <Sidebar />
       </div>
